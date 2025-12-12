@@ -1,1 +1,3 @@
-Galaxy classification for the Galaxy Decals 10 dataset using transfer learning on the standard DenseNet121 cnn architecture resulting in accruracy of XX which is better than a baseline CNN model of accuracy XX
+## GalaxyDecals10 Classifier - Galaxu Morphology Classification using CNN
+
+Galaxy classification for the Galaxy Decals 10 dataset using transfer learning on the standard DenseNet121 cnn architecture and comparing that with baseline cnn model
